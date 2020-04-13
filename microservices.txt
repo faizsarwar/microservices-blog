@@ -2,6 +2,7 @@
                
 
 WHAT   IS MICROSERVICES:
+
 A microservice or a microservice architecture is a collection of services that 
 1)	Highly coheshive.
 2)	Loosely coupled.
