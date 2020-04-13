@@ -1,0 +1,24 @@
+MICROSERVICES  ARCHITECTURE
+               
+
+WHAT   IS MICROSERVICES:
+A microservice or a microservice architecture is a collection of services that 
+1)	Highly coheshive.
+2)	Loosely coupled.
+3)	Easily upgradable.
+4)	Easily deployability of large applications.
+5)	Better testability.
+6)	Faster productivity.
+
+WHY WE NEED MICROSERVICES:
+In bad old days when monolithic architecture is very common it is very difficult for the developers to identify where the error is they used to debug the whole application line by line and it takes a long time to publish a application to the consumers and it takes a large development team  to do so . As a result the applications  were more costly as takes today because of there large development team and it takes a lot of time ( almost 6-12 months )
+To upgrade the applications microservices make it easy for us to break our applications into small fragments and then work on it which take smaller team and a short time to deploy our code  and launch our applications to the world. And when a code arrives instead of debugging line by line we knew in which microservice the error is so it takes less time and can easily  be Upscale anytime.
+ 
+WHEN WE DON’T NEED A MICROSERVICE: 
+As there are multiple microservices so it take more security than an ordinary monolithic architecture in banks or any application where there is use of Transaction , payments  or which requires more  security to handle with. A microservice architecture is hot to handle.
+As there is security thread for each of our microservice so we need to look each of our microservice carefully. In this case monolithic architecture is way better than microservice 
+Architechture.
+
+
+CONCLUSION:
+Designing and implementing a micro service is challenging compared to monolithic software architecture. A microservice architecture is by no means a silver bullet which can solve all sorts of problems and issues but event that it is believed that microservice architecture is very usefull and handy tool for modern development industry.
